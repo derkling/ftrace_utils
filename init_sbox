@@ -1,0 +1,1 @@
+alias sboxme="echo $$ > /sys/fs/cgroup/sbox/tasks"
